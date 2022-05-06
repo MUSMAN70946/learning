@@ -1,3 +1,4 @@
 # learning
+#non-learning
 just for learning about git
 this is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking purpthis is checking 
